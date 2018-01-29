@@ -23,7 +23,9 @@
     "tiddlywiki5",
     "wiki"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "minimist": "^1.2.0"
+  },
   "devDependencies": {},
   "bundleDependencies": [],
   "license": "BSD",
